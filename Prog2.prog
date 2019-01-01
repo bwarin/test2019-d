@@ -1,0 +1,6 @@
+Création : ce programme permet de saisir les types de licences accordables au classificateur.
+Il existe quatre niveaux de licence :
+    1) classificateur société
+    2) classificateur sous-groupement
+    3) classificateur fédéral
+    4) classificateur Osiris

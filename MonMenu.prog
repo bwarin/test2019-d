@@ -1,2 +1,5 @@
 Début : Programmation du début du programme principal de mon application
 Modif 1 : changement de la couleur de fond
+Modif 2 : séparation du choix "Saisie des classificateurs" en deux choix :
+    "Saisie des types de licences"
+    "Saisie des classificateurs et affectation des licences"
